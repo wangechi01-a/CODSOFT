@@ -1,4 +1,7 @@
 # CODSOFT 
+
+# The following are projects I did assigned to me during my one month Internship as a Machine Learning Engineer at CodSoft:
+
 1. Bank customer churn prediction 
    
   - Overview:
