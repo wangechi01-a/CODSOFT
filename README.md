@@ -15,10 +15,11 @@
   are going experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.
 
 3. Movie Genre Prediction
+   
 
-4. Sms Spam Detection
+5. Sms Spam Detection
 
 - Overview:
-  The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research.. 
-6. 
+  The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research.
+  This project aims at building a prediction model that will accurately classify which texts are spam or ham.
  
