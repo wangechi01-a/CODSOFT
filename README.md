@@ -2,7 +2,7 @@
 
 # The following are projects assigned to me during my one month Internship as a Machine Learning Engineer at CodSoft:
 
-1. Bank customer churn prediction 
+1. Bank customer churn prediction  
    
   - Overview:
    This project aims at predicting whether customers of a bank will leave based on various attributes. Customer churn is a significant concern in the banking sector, 
