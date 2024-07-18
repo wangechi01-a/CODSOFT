@@ -16,7 +16,7 @@
 
 3. Mnist Dataset
 - Overview:
-The project aims as a benchmark for evaluating and comparing the performance of machine learning algorithms, particularly in the field of image recognition and classification. It consists of 70,000 grayscale images of handwritten digits (0-9), with 60,000 used for training and 10,000 for testing.
+This project aims as a benchmark for evaluating and comparing the performance of machine learning algorithms, particularly in the field of image recognition and classification. It consists of 70,000 grayscale images of handwritten digits (0-9), with 60,000 used for training and 10,000 for testing.
    
 4. Movie Genre Classification
 - Overview:
