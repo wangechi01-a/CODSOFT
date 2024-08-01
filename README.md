@@ -18,7 +18,7 @@ This project works as a  benchmark for evaluating and comparing the performance 
    
 4. Movie Genre Classification
 - Overview:
-  This project aims at building a machine learning model to automatically categorizing movies into their respective genres based on various features such as title,description and year. 
+  This project aims at building a machine learning model to automatically categorize movies into their respective genres based on various features such as title,description and year. 
 
 5. Sms Spam Detection
 
